@@ -1,4 +1,15 @@
-#img {
-    float: right;
-    margin: 0 0 10px 10px;
+img {
+    border-type: dashed;
+}
+
+h1 {
+    font family: "Papyrus";
+}
+
+p {
+    font family: "Monospace";
+}
+
+h2 {
+    font family: "Trebuchet";
 }
